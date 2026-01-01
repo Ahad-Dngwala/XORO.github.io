@@ -1,5 +1,11 @@
 # XORO – eXperience-Oriented Workflow Organizer
 
+<img width="1891" height="1079" alt="Screenshot 2026-01-01 180752" src="https://github.com/user-attachments/assets/7d1a19ac-8671-4f76-a7e6-e43bc4bc9242" />
+<img width="1919" height="938" alt="Screenshot 2026-01-01 163630" src="https://github.com/user-attachments/assets/2b97026a-3628-439d-aa58-b0f28410c21b" />
+<img width="1919" height="1020" alt="Screenshot 2026-01-01 142146" src="https://github.com/user-attachments/assets/5ecae43d-7e15-46e8-b577-7cd06c1ebdbc" />
+<img width="1919" height="1019" alt="Screenshot 2026-01-01 142135" src="https://github.com/user-attachments/assets/50bd1240-59c9-479d-a8cc-3466989a8133" />
+
+
 **XORO** is a premium, feature-rich Kanban-style task management application built with React, Node.js, Express, and PostgreSQL. This application delivers an exceptional user experience with professional-grade features including dark mode, real-time search, focus mode, keyboard shortcuts, and advanced responsive design. XORO demonstrates modern frontend development capabilities with SaaS-level UI/UX polish.
 
 ## 🚀 Tech Stack
