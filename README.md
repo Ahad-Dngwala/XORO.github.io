@@ -300,7 +300,7 @@ enum TaskStatus {
 
 **XORO is live and ready to use!**
 
-- **🚀 Production URL**: [https://xoro-rho.vercel.app](https://xoro-rho.vercel.app) (reload is app doesn't load at first time)😊 
+- **🚀 Production URL**: [https://xoro-rho.vercel.app](https://xoro-rho.vercel.app) (reload if app doesn't load at first time)😊 
 - **📱 Fully Responsive** - Works on desktop, tablet, and mobile
 - **🎨 Premium Features** - Dark mode, search, focus mode, keyboard shortcuts
 - **⚡ Instant Demo** - No login required, start managing tasks immediately
