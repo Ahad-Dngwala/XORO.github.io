@@ -315,6 +315,8 @@ enum TaskStatus {
 
 ## 🚀 Deployment
 
+**Deployment link** = https://xoro-rho.vercel.app/ (if app doesn't opens on 1st time try again as vercel takes time to naturally connect with backend in railway)
+
 ### Backend Deployment (e.g., Railway, Render)
 
 1. Set environment variables:
@@ -378,7 +380,7 @@ This project is built for a technical evaluation/hackathon.
 
 ## 👤 Author
 
-Built as a full-stack demonstration project showcasing modern web development practices.
+Built as a full-stack demonstration project showcasing modern web development practices by Ahad Dangarvawala.
 
 ---
 
